@@ -1,4 +1,4 @@
-# Contributing to Promised Worlds Localization
+# Contributing to Promised Worlds Localization 
 
 Thank you for helping improve [**Promised Worlds**](https://github.com/PromisedWorlds/PromisedWorlds) by contributing translations.  
 This guide explains the simplest ways to add or update localization: either directly on the GitHub website or using GitHub Desktop.
