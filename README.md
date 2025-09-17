@@ -22,11 +22,12 @@ Only change the text after `=`.
 ## Option 1: Using the GitHub Website (easiest)
 1. Go to the repository on GitHub.  
 2. Open `GameData/PromisedWorlds/Misc/Localization` and select the file for your language.  
-   - If your language doesn’t exist yet, copy `en-us.cfg` and rename it (e.g. `es-es.cfg`).  
-3. Click the **pencil icon** to edit the file.  
-4. Add or update translations.  
-5. Scroll down, write a short description of your changes, and click **Propose changes**.  
-6. GitHub will guide you to open a **pull request**.
+   - If your language doesn’t exist yet, copy `en-us.cfg` and rename it (e.g. `es-es.cfg`).
+3. Create a new branch if you are a part of the Translator team, if not fork this repository and make your changes.
+4. Click the **pencil icon** to edit the file.  
+5. Add or update translations.  
+6. Scroll down, write a short description of your changes, and click **Propose changes**.  
+7. GitHub will guide you to open a **pull request**.
 
 ---
 
